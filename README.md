@@ -1,3 +1,7 @@
+## NOTE
+
+This repo is no longer being maintained. Users are welcome to fork it, but we make no warranty of its functionality.
+
 Homebrew
 ========
 Features, usage and installation instructions are [summarized on the homepage][home].
